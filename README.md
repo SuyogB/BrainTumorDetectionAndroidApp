@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is an Automatic Brain Tumor Detection System developed as part of a collaborative effort by a team of three members. The system utilizes machine learning techniques to classify MRI images and detect brain tumors. The project includes an Android application providing mobile access to the detection system.
+This project is an Automatic Brain Tumor Detection System. The system utilizes machine learning techniques to classify MRI images and detect brain tumors. The project includes an Android application providing mobile access to the detection system.
 
 ## Features
 
