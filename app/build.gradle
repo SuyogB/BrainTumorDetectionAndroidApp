@@ -30,6 +30,7 @@ android {
     buildFeatures {
         mlModelBinding true
     }
+    namespace 'com.project.braintumordetection'
 }
 
 dependencies {
